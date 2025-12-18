@@ -22,7 +22,7 @@ _a small space where I keep what I learn, what I create, and the progress I’m 
 
 ## Contact 🤍
 You can reach me here:
-- Instagram: https://www.instagram.com/woohoounun?igsh=ZDJwYzViNzNvaTVx&utm_source=qr
-- Facebook: https://www.facebook.com/share/1FzSCoFuAR/?mibextid=wwXIfr
+- Instagram: https://www.instagram.com/woohoounun
+- Facebook: https://www.facebook.com/Ariya Wiparam
 - Email (optional): wipharamyx@gmail.com
  
