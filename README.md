@@ -6,5 +6,7 @@ __ a small space where I keep what I learn, what I create, and the progress I’
 🗂️Sharing projects, notes, and personal experiments  
 
 ### 🧰 Languages & Tools
-<img src="https://skillicons.dev/icons?i=html,mysql,mongodb,aws,github,visualstudio,microsoft teams" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,mysql,github,mongodb,aws,visualstudio" />
+</p>
  
