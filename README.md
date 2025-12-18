@@ -7,6 +7,6 @@ __ a small space where I keep what I learn, what I create, and the progress I’
 
 ### 🧰 Languages & Tools
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,mysql,github,mongodb,aws,visualstudio" />
+<img src="https://skillicons.dev/icons?i=html,mysql,github,mongodb,aws,vscode&theme=light" />
 </p>
  
