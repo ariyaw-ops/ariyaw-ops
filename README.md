@@ -2,7 +2,8 @@
 ## Welcome to my GitHub 🙇🏻‍♀️
 _a small space where I keep what I learn, what I create, and the progress I’m proud of ✨_
 
-🎓 3rd-year student at Kasetsart University,Sriracha Campus 
+🎓 3rd-year student at Kasetsart University,Sriracha Campus
+
 📍 Chonburi, Thailand  
 🎀 Learning step by step, every day  
 🗂️ Sharing projects, notes, and personal experiments  
