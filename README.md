@@ -23,6 +23,6 @@ _a small space where I keep what I learn, what I create, and the progress I’m 
 ## Contact 🤍
 You can reach me here:
 - Instagram: https://www.instagram.com/woohoounun
-- Facebook: https://www.facebook.com/Ariya Wiparam
+- Facebook: https://www.facebook.com/AriyaWiparam
 - Email (optional): wipharamyx@gmail.com
  
